@@ -1,0 +1,15 @@
+current directory: /Users/sawakamehiroya/sorcery_sample/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/sawakamehiroya/.rbenv/versions/2.6.6/bin/ruby -I /Users/sawakamehiroya/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210326-17314-1xxh8no.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sawakamehiroya/sorcery_sample/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/sawakamehiroya/sorcery_sample/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/sawakamehiroya/sorcery_sample/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210326-17314-12o8vyt

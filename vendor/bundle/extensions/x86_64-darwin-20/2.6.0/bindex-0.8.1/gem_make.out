@@ -1,0 +1,15 @@
+current directory: /Users/sawakamehiroya/sorcery_sample/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/sawakamehiroya/.rbenv/versions/2.6.6/bin/ruby -I /Users/sawakamehiroya/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210326-17314-1kstxjo.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sawakamehiroya/sorcery_sample/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/sawakamehiroya/sorcery_sample/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/sawakamehiroya/sorcery_sample/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210326-17314-1osryc5/skiptrace/internal
